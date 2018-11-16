@@ -7,4 +7,4 @@ This repository is meant to be a front-end boiler plate for several user feature
 -Thunk </br>
 -Axios
 
-This can be used in conjuction with the <a href="https://github.com/syn228/authentication-backend-server-w-express-mongoDB">backend boiler plate</a>
+This can be used in conjuction with the <a href="https://github.com/syn228/authentication-backend-server-w-express-mongoDB">backend boiler plate.</a>
