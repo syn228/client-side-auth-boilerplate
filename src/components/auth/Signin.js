@@ -36,7 +36,7 @@ class Signin extends Component {
         <div>
           {this.props.errorMessage}
         </div>
-        <button>Sign Up</button>
+        <button>Sign In</button>
       </form>
     );
   }

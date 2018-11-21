@@ -5,7 +5,7 @@ class Feature extends Component {
   render() {
     return (
       <div>
-        This is the feature page.
+        Insert feature here.
       </div>
     );
   }
