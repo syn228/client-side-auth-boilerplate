@@ -1,4 +1,4 @@
-## Client Side/Frontend Authentication
+## Client Side/Front End Authentication
 This repository is meant to be a front-end boiler plate for several user features/routes with authentication, featuring:
 </br>
 -React </br>
